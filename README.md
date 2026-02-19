@@ -2,7 +2,7 @@
 
 🎧 Former Music Producer  
 💻 Junior Full-Stack Software Developer  
-🧠 Currently building **NerDeck** – a Spaced Repetition learning app  
+🧠 Currently building **NerDecks** – a Spaced Repetition learning app  
 
 ---
 
@@ -12,7 +12,7 @@ I’m transitioning from producing music to building digital products through co
 
 After several years working in music production, I decided to move into software development with the goal of creating my own applications from scratch.
 
-Right now I’m developing **NerDeck**, a learning platform based on spaced repetition, using:
+Right now I’m developing **NerDecks**, a learning platform based on spaced repetition, using:
 
 - Python
 - Django
