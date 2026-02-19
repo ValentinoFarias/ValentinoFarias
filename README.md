@@ -68,4 +68,4 @@ Users can:
 
 ### 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/valentino-farias-8a7117169
+- LinkedIn: [https://www.linkedin.com/in/valentinofariasc/] 
