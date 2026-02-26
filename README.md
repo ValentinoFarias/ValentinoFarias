@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Valentino
 
-🎧 Former Music Producer  
 💻 Junior Full-Stack Software Developer  
 🧠 Currently building **NerDecks** – a Spaced Repetition learning app  
 
