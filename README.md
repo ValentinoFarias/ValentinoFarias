@@ -29,7 +29,8 @@ Users create decks, organise cards into folders, and review content daily using 
 - Deck / card / folder architecture
 
 ---
-https://github.com/ValentinoFarias/nerdeck_project/blob/main/static/images/responsivness_nerdecks.png
+[![NerDecks Preview](https://raw.githubusercontent.com/ValentinoFarias/nerdeck_project/main/static/images/responsivness_nerdecks.png)](https://nerdeck-981cca01cede.herokuapp.com/)
+
 https://nerdeck-981cca01cede.herokuapp.com/
 
 ## 🛠️ Tech Stack
