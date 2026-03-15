@@ -28,7 +28,7 @@ www.koykodesign.com
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **Highlights:**
-- Custom-coded websites with no templates or page builders
+- Custom-coded 
 - Minimal, functional design with purposeful interactivity
 - Deployed on Vercel with global CDN delivery
 - SEO foundations built into every project
