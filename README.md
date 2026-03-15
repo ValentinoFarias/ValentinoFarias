@@ -1,41 +1,43 @@
 # Hi, I'm Valentino 👋
 
-**Full-Stack Developer** · Bristol, UK  
-Recently graduated · Python · Django · JavaScript · HTML · CSS
+**Full-Stack Developer & Web Designer** · Bristol, UK  
+Recently graduated · Python · Django · JavaScript · React
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinofariasc/)
 
 ---
 
-## 🧠 NerDecks — Main Project
+## 🧠 Koyko Design — Main Project
 
-> A spaced-repetition learning platform built from the ground up.
+> A freelance web design and development practice built for small businesses and creatives.
 
-Users create decks, organise cards into folders, and review content daily using a spaced-repetition algorithm — helping them retain knowledge long-term.
+Koyko Design is a studio focused on building custom, high-performance websites — giving clients full code ownership instead of locking them into subscription platforms.
+
+www.koykodesign.com
 
 **Stack:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **Highlights:**
-- RESTful API built with Django
-- Relational data models with PostgreSQL
-- User authentication system
-- Cross-platform mobile interface (React Native — in progress)
-- Deck / card / folder architecture
+- Custom-coded websites with no templates or page builders
+- Minimal, functional design with purposeful interactivity
+- Deployed on Vercel with global CDN delivery
+- SEO foundations built into every project
+- Client code ownership — no recurring platform fees
 
 ---
-[![NerDecks Preview](https://raw.githubusercontent.com/ValentinoFarias/nerdeck_project/main/static/images/responsivness_nerdecks.png)](https://nerdeck-981cca01cede.herokuapp.com/)
-
-
 
 ## 🛠️ Tech Stack
 
 **Frontend**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
