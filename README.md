@@ -11,7 +11,7 @@ Recently graduated · Python · Django · JavaScript · React
 
 > A freelance web design and development practice built for small businesses and creatives.
 
-Koyko Design is a studio focused on building custom, high-performance websites — giving clients full code ownership instead of locking them into subscription platforms.
+Koyko Design is a studio focused on building custom, high-performance websites — giving clients full code ownership.
 
 www.koykodesign.com
 
