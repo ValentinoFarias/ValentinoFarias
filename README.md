@@ -15,7 +15,8 @@ Koyko Design is a studio focused on building custom, high-performance websites â
 
 www.koykodesign.com
 
-![home page Koyko Design](koyko_design_hero.png)
+![home page Koyko Design]<img width="1455" height="943" alt="Screenshot_homepage" src="https://github.com/user-attachments/assets/de890990-5360-40f5-9ebe-54bee4385c5b" />
+
 
 **Stack:**
 
